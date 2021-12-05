@@ -2,7 +2,7 @@
 
 <p> 
 Je m'appelle Stephen, ancien agent de sécurité incendie ayant décidé de me reconvertir en tant que developpeur web. </br>
-</p
+</p>
 <h2> Front end </h2>
 HTML - CSS - SASS - BOOTSTRAP - BULMA - JAVASCRIPT - VUE.JS
 
