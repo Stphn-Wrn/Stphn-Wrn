@@ -1,7 +1,7 @@
 ### Salut petit curieux 👋
 
 <p> 
-Je m'appelle Stephen, ancien agent de sécurité incendie ayant décidé de me reconvertir en tant que developpeur web. </br>
+Bio ? </br>
 </p>
 <h2> Front end </h2>
 <img align="left" alt="medium" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" />
@@ -13,10 +13,30 @@ Je m'appelle Stephen, ancien agent de sécurité incendie ayant décidé de me r
 
 
 <h2> Back end </h2>
-
-
 <img align="left" alt="medium" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/laravel-ffffff?style=for-the-badge&logo=laravel" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/lumen-f6a36f?style=for-the-badge&logo=lumen" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/adminer-10ef4c?style=for-the-badge&logo=adminer" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> </br>
+
+
+<h2> Version Control </h2>
+<img align="left" alt="medium" src="https://img.shields.io/badge/github-272b33?style=for-the-badge&logo=github&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> </br>
+
+
+<h2> Editor </h2>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </br>
+
+
+<h2> OS </h2>
+<img align="left" alt="medium" src="https://img.shields.io/badge/ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=white"> </br>
+
+
+<h2> Social </h2>
+<a href="https://www.linkedin.com/in/stephen-woirin" target="_blank"><img align="left" alt="medium" src="https://img.shields.io/badge/-Stephen-black?style=for-the-badge&logo=Linkedin"></br>
+
+<h2></h2>
+
+![Stphn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stphn-Wrn&show_icons=true&theme=tokyonight)
+ 
