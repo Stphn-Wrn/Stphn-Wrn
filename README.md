@@ -36,7 +36,7 @@ Bio ? </br>
 <h2> Social </h2>
 <a href="https://www.linkedin.com/in/stephen-woirin" target="_blank"><img align="left" alt="medium" src="https://img.shields.io/badge/-Stephen-black?style=for-the-badge&logo=Linkedin"></br>
 
-<h2></h2>
+<h6></h6>
 
 ![Stphn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stphn-Wrn&show_icons=true&theme=tokyonight)
  
