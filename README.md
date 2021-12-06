@@ -16,5 +16,7 @@ Je m'appelle Stephen, ancien agent de sécurité incendie ayant décidé de me r
 
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/laravel-ffffff?style=for-the-badge&logo=laravel" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/lumen-f6a36f?style=for-the-badge&logo=lumen" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/adminer-10ef4c?style=for-the-badge&logo=adminer" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
