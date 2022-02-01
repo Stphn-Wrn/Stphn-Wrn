@@ -9,7 +9,7 @@ Bio ? </br>
 <img align="left" alt="medium" src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/SASS-6a0b88?style=for-the-badge&logo=SASS" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> </br>
+<img align="left" alt="medium" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" /> </br></br>
 </br>
 
 <h2> Back end </h2>
