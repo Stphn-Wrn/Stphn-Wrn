@@ -1,7 +1,7 @@
 ### Salut petit curieux 👋
 
 <p> 
-Bio ? </br>
+Hi, im Stephen. </br>
 </p>
 <h2> Front end </h2>
 <img align="left" alt="medium" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" />
