@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 <p> 
-Salut moi c'est Stephen, jeune developpeur web avec une forte envie d'apprendre et de se surpasser. J'ai cru comprendre que les juniors d'aujourd'hui feront les seniors de demain, alors pourquoi ne pas tenter quelque chose ensemble ? 
+Salut moi c'est Stephen, jeune developpeur web avec une forte envie d'apprendre et de se surpasser. J'ai cru comprendre que les juniors d'aujourd'hui seront les seniors de demain, alors pourquoi ne pas tenter quelque chose ensemble ? 
 </p>
 <h2> Front end </h2>
 <img align="left" alt="medium" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff" />
