@@ -56,4 +56,4 @@ Salut moi c'est Stephen, jeune developpeur web avec une forte envie d'apprendre 
  </br>
  
 ![Stphn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stphn-Wrn&show_icons=true&theme=tokyonight)
- 
+![Stphn's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stphn-Wrn&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
